@@ -7,3 +7,4 @@
 ## Repository:   
 [https://github.com/GeorgeDaoud3/SOFE3980U-Lab4.git](https://github.com/GeorgeDaoud3/SOFE3980U-Lab4.git) 
 
+Commit #2 to check changes to jenkins pipeline
